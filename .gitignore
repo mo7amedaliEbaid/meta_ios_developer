@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Xcode user data
+xcuserdata/
+
+# IDE
+.idea/
+
+# Archives and binaries
+*.zip
+*.mov
+
+# Build
+build/
+DerivedData/
